@@ -155,9 +155,6 @@ if (food != 0){
     }
     image(milkBottle, x, y, 50, 50);
     x = x + 30
-
-
-
   }
 }
 }
