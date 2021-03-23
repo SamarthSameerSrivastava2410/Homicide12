@@ -1,4 +1,4 @@
-var foodValue, food, foodSt, x, feed, addFood, lastFed, lastfed, button1, button2, y, x
+var foodValue, food, foodSt, x, feed, addFood, lastFed, lastfed, button1, button2, y, x,
 hour;
 
 function preload() {
